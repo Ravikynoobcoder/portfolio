@@ -9,6 +9,7 @@ import {
 } from "react-icons/fa";
 import { Link } from "react-router-dom";
 import LeetCodeStats from "../components/LeetCodeStats";
+import About from "./About.jsx";
 
 const Home = () => {
   const { theme } = useTheme();
@@ -178,6 +179,7 @@ const Home = () => {
           </div>
         </div>
       </div>
+      <About/>
     </div>
   );
 };
