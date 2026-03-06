@@ -9,7 +9,7 @@ import {
 } from "react-icons/fa";
 import { Link } from "react-router-dom";
 import LeetCodeStats from "../components/LeetCodeStats";
-import About from "./About.jsx";
+import About from "./About";
 
 const Home = () => {
   const { theme } = useTheme();
