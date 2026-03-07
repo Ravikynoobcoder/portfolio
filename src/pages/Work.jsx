@@ -21,7 +21,7 @@ const Work = () => {
       desc: "QuickScribe — Intelligent MERN Note-Taking App to create, manage, and organize notes with search, filtering, tags, and pinning. Built with the MERN stack.",
       img: "./quick.png",
       live: "https://notes-frontend-alpha-beryl.vercel.app",
-      git: "https://github.com/Aadarsh-max/QuickScribe",
+      git: "https://github.com/",
       tech: ["React", "Node.js", "MongoDB", "Express"],
     },
     {
@@ -29,7 +29,7 @@ const Work = () => {
       desc: "SnipScan — A responsive URL Shortener app built with MERN, enabling users to create short links and QR codes for easy sharing and scanning.",
       img: "./url.png",
       live: "https://url-shortner-frontend-phi.vercel.app",
-      git: "https://github.com/Aadarsh-max/SnipScan",
+      git: "https://github.com/Ravikynoobcoder/",
       tech: ["React", "Node.js", "MongoDB", "QR Code"],
     },
     {
@@ -37,7 +37,7 @@ const Work = () => {
       desc: "PrepMateAI — AI-powered interview prep tool using Google's Gemini AI. Get tailored technical questions, code snippets, and saved sessions.",
       img: "./ai.png",
       live: "https://prepmate-ai-nine.vercel.app",
-      git: "https://github.com/Aadarsh-max/PrepMateAI",
+      git: "https://github.com/Ravikynoobcoder/",
       tech: ["React", "Gemini AI", "Node.js", "MongoDB"],
     },
     {
@@ -45,7 +45,7 @@ const Work = () => {
       desc: "Expense Tracker — Smart MERN app for managing income & expenses with charts and dashboards for financial insights.",
       img: "./expense.png",
       live: "https://expense-tracker-gamma-dun.vercel.app",
-      git: "https://github.com/Aadarsh-max/Expense-Tracker",
+      git: "https://github.com/Ravikynoobcoder/",
       tech: ["React", "Charts.js", "MongoDB", "Node.js"],
     },
     {
@@ -53,7 +53,7 @@ const Work = () => {
       desc: "Streamify — A MERN-based app for connecting, chatting, and collaborating with people globally through text and video communication.",
       img: "./streamify.png",
       live: "https://streamify-app-47nz.onrender.com",
-      git: "https://github.com/Aadarsh-max/Streamify",
+      git: "https://github.com/Ravikynoobcoder/",
       tech: ["React", "WebRTC", "Socket.io", "Node.js"],
     },
     {
@@ -61,7 +61,7 @@ const Work = () => {
       desc: "Resume Builder — A MERN app that helps users create professional resumes with multiple templates and export as PDF.",
       img: "./resume.png",
       live: "https://resume-three-cyan.vercel.app",
-      git: "https://github.com/Aadarsh-max/Resume-Builder",
+      git: "https://github.com/Ravikynoobcoder/",
       tech: ["React", "PDF.js", "MongoDB", "Node.js"],
     },
     // {
