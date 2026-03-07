@@ -85,7 +85,7 @@ const Home = () => {
               <span className="font-semibold">MERN Stack</span>. Beyond coding,
               I create engaging content on{" "}
               <span className="font-semibold">
-                YouTube @SkillCoder-By_Aadarsh
+                YouTube by ViberCoder
               </span>
               , explore <span className="font-semibold">AI/ML</span> and{" "}
               <span className="font-semibold">Data Science</span>, and love
