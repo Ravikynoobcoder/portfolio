@@ -67,10 +67,10 @@ const Work = () => {
     {
       title: "Custom CArd",
       desc: "Design and customize cards",
-      img: "./microsys.png",
+      img: "./card.png",
       live: "https://customcard12.vercel.app/",
       git: "https://github.com/Ravikynoobcoder/",
-      tech: ["javascrict","css"],
+      tech: ["javascrict","css","tailwindcss"],
     },
     // {
     //   title: "My Portfolio",
