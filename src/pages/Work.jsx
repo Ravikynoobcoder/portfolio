@@ -64,14 +64,14 @@ const Work = () => {
       git: "https://github.com/Ravikynoobcoder/",
       tech: ["React", "PDF.js", "MongoDB", "Node.js"],
     },
-    // {
-    //   title: "Microsys Computers",
-    //   desc: "Microsys Computers — My first earning project, a professional business website built with modern web technologies.",
-    //   img: "./microsys.png",
-    //   live: "https://microsys-computers.vercel.app",
-    //   git: "https://github.com/Aadarsh-max/Microsys-Computers",
-    //   tech: ["React", "Tailwind", "Node.js", "MongoDB"],
-    // },
+    {
+      title: "Custom CArd",
+      desc: "Design and customize cards",
+      img: "./microsys.png",
+      live: "https://customcard12.vercel.app/",
+      git: "https://github.com/Ravikynoobcoder/",
+      tech: ["javascrict","css"],
+    },
     // {
     //   title: "My Portfolio",
     //   desc: "My Portfolio — A personal website showcasing my skills, projects, and journey as a developer with smooth animations and dark/light mode.",

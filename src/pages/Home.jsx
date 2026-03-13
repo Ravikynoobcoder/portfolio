@@ -54,7 +54,7 @@ const Home = () => {
 
   return (
     <div
-      className={`${containerBg} min-h-screen transition-colors duration-300`}
+      className={`${containerBg} min-h-screen transition-colors duration-300 mb-1`}
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-24 sm:pt-28 pb-12 sm:pb-16 md:pb-24">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-10 lg:gap-16 items-start pt-14">
@@ -85,7 +85,7 @@ const Home = () => {
               <span className="font-semibold">MERN Stack</span>. Beyond coding,
               I create engaging content on{" "}
               <span className="font-semibold">
-                YouTube by ViberCoder
+                YouTube by LittleCoder
               </span>
               , explore <span className="font-semibold">AI/ML</span> and{" "}
               <span className="font-semibold">Data Science</span>, and love
@@ -118,11 +118,39 @@ const Home = () => {
                   Get in Touch
                 </button>
               </Link>
+              <Link to="/Skills">
+                <button
+                  className={`px-8 py-3 rounded-lg font-semibold border-2 transition-all duration-300 text-sm sm:text-base cursor-pointer ${
+                    isDark
+                      ? "border-blue-400 text-blue-400 hover:bg-blue-950"
+                      : "bg-blue-600 hover:bg-blue-700 text-white"
+                  }`}
+                >
+                  check my skills
+                </button>
+              </Link>
             </div>
-<div className="flex justify-center md:justify-start mt-10">
+<div className="flex  justify-center md:justify-start mt-10  grid grid-cols-1 sm:grid-cols-2">
    <img
-    className="w-100 rounded-xl shadow-xl hover:scale-105 transition-transform"
+    className="w-80 mr-10 rounded-xl shadow-xl hover:scale-105 transition-transform"
     src="https://leetcard.jacoblin.cool/Ravikumar12345"
+    alt="LeetCode Stats"
+  />
+  
+ <a className=" flex justify-center items-center sm:pt-2 mt-1" href="https://www.linkedin.com/in/Ravikynoobcoder" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" 
+    alt="LinkedIn" 
+    class=" w-22 h-22 sz-100 rounded-full hover:scale-110 transition-transform m:hidden"
+  />
+</a>
+ 
+</div>
+
+<div className="flex justify-center md:justify-start mt-17">
+   <img aria-label="Github Chart"
+    className="w-full rounded-xl shadow-xl hover:scale-105 transition-transform"
+     src="https://ghchart.rshah.org/Ravikynoobcoder"
     alt="LeetCode Stats"
   />
 </div>

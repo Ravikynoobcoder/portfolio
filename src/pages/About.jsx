@@ -262,7 +262,7 @@ const About = () => {
               View My Projects <FaArrowRight className="text-sm" />
             </a>
             <a
-              href="https://www.youtube.com/@SkillCoder-By_Aadarsh"
+              href="https://www.youtube.com"
               target="_blank"
               rel="noopener noreferrer"
               className={`px-8 py-3 rounded-lg font-semibold border-2 transition-all duration-300 inline-flex items-center justify-center gap-2 ${
