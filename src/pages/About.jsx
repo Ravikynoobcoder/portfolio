@@ -41,7 +41,7 @@ const About = () => {
       icon: <FaYoutube className="text-2xl" />,
       title: "Content Creator",
       description:
-        "Recently began content creation journey on YouTube @SkillCoder-By_Aadarsh, sharing knowledge and insights with the developer community.",
+        "Recently began content creation journey on YouTube @LittleCoder, sharing knowledge and insights with the developer community.",
     },
   ];
 
