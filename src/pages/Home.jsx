@@ -167,9 +167,9 @@ const Home = () => {
               } shadow-2xl`}
             >
               <img
-                src="./pro.jpg"
+                src="./pic_me.jpg"
                 alt="Ravi kumar"
-                className="w-full h-full object-cover"
+                className="w-full h-full object-cover object-[50%_20%]"
               />
             </div>
 
