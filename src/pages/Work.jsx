@@ -72,14 +72,14 @@ const Work = () => {
       git: "https://github.com/Ravikynoobcoder/",
       tech: ["javascrict","css","tailwindcss"],
     },
-    // {
-    //   title: "My Portfolio",
-    //   desc: "My Portfolio — A personal website showcasing my skills, projects, and journey as a developer with smooth animations and dark/light mode.",
-    //   img: "./myport.png",
-    //   live: "https://my-portfolio-omega-tawny-21.vercel.app",
-    //   git: "https://github.com/Aadarsh-max/My-Portfolio",
-    //   tech: ["React", "Framer Motion", "Tailwind", "Next.js"],
-    // },
+    {
+      title: "My Notes",
+      desc: "My NOtes, makes notes and things",
+      img: "./myport.png",
+      live: "https://vercel.com/raviy3083-5319s-projects/note1",
+      git: "https://github.com/Ravikynoobcoder/",
+      tech: ["React", "Framer Motion", "Tailwind", "Next.js"],
+    },
   ];
 
   return (
