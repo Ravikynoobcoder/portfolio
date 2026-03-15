@@ -130,32 +130,36 @@ const Home = () => {
                 </button>
               </Link>
             </div>
-<div className="flex  justify-center md:justify-start mt-10  grid grid-cols-1 sm:grid-cols-2">
+
+
+<div className="flex mt-15 mr-10 justify-center md:justify-start mt-10  grid grid-cols-1 sm:grid-cols-2">
+  
+<a className=" ml-12 flex justify-center items-center sm:pt-2 mt-1" href="https://www.linkedin.com/in/ravi-yadav7777/" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" 
+    alt="LinkedIn" 
+    class=" w-22 h-22 sz-100 mb-5  rounded-full hover:scale-110 transition-transform m:hidden"
+  />
+</a>
+  
    <img
-    className="w-80 mr-10 rounded-xl shadow-xl hover:scale-105 transition-transform"
+    className="w-80 ml-5 mr-10 rounded-xl shadow-xl hover:scale-105 transition-transform"
     src="https://leetcard.jacoblin.cool/Ravikumar12345"
     alt="LeetCode Stats"
   />
   
- <a className=" flex justify-center items-center sm:pt-2 mt-1" href="https://www.linkedin.com/in/Ravikynoobcoder" target="_blank" rel="noopener noreferrer">
-  <img 
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" 
-    alt="LinkedIn" 
-    class=" w-22 h-22 sz-100 rounded-full hover:scale-110 transition-transform m:hidden"
-  />
-</a>
+
  
 </div>
 
-<div className="flex justify-center md:justify-start mt-17">
+<div className="flex justify-center  md:justify-start mt-17">
    <img aria-label="Github Chart"
     className="w-full rounded-xl shadow-xl hover:scale-105 transition-transform"
      src="https://ghchart.rshah.org/Ravikynoobcoder"
     alt="LeetCode Stats"
   />
 </div>
-
-          </div>
+</div>
 
 
         
