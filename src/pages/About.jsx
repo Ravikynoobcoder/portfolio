@@ -44,7 +44,7 @@ const About = () => {
         "Recently began content creation journey on YouTube @LittleCoder, sharing knowledge and insights with the developer community.",
     },
   ];
-
+// 
   const skills = [
     {
       category: "Frontend",
