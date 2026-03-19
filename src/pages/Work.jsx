@@ -80,6 +80,15 @@ const Work = () => {
       git: "https://github.com/Ravikynoobcoder/",
       tech: ["React", "Framer Motion", "Tailwind", "Next.js"],
     },
+        {
+      title: "chat app/group chatting",
+      desc: "My chatty ",
+      img: "./chat.png",
+      live: "https://chatty-frontend-zeta.vercel.app",
+      git: "https://github.com/Ravikynoobcoder/",
+      tech: ["React", "Framer Motion", "Tailwind", "Next.js"],
+    }
+    
   ];
 
   return (
