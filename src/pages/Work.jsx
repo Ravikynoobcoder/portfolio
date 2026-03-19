@@ -16,6 +16,23 @@ const Work = () => {
   const borderColor = isDark ? "border-blue-900/40" : "border-blue-100";
 
   const projects = [
+
+    {
+      title: "Roomify",
+      desc: " Roomify . a smart way to visualize your floor plans and architure with AI and inside funiture using puter and MERN stack.",
+      img: "./roomify.png",
+      live: "https://roomify-gold-one.vercel.app",
+      git: "https://github.com/Ravikynoobcoder/roomify",
+      tech: ["React", "Node.js", "MongoDB", "Express"],
+    },
+    {
+      title: "ZegoStream",
+      desc: " ZegoStream is a vidoecalling web app that connect people and friends using the powerful zegocloud api",
+      img: "./zego.png",
+      live: "https://zegocall-ten.vercel.app/",
+      git: "https://github.com/Ravikynoobcoder/roomify",
+      tech: ["React", "Node.js", "MongoDB", "Express"],
+    },
     {
       title: "QuickScribe",
       desc: "QuickScribe — Intelligent MERN Note-Taking App to create, manage, and organize notes with search, filtering, tags, and pinning. Built with the MERN stack.",
