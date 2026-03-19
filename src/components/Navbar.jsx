@@ -46,7 +46,7 @@ export default function Navbar() {
         >
           <NavLink to="/" className="flex items-center gap-2 group">
             <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-blue-500 to-blue-600 flex items-center justify-center text-white font-bold group-hover:shadow-lg group-hover:shadow-blue-500/50 transition-all duration-300">
-              A
+              R
             </div>
             <span
               className={`text-base sm:text-lg font-bold bg-clip-text bg-gradient-to-r from-blue-500 to-blue-700 text-transparent hidden sm:inline group-hover:opacity-80 transition-opacity`}
