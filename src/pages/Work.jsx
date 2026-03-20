@@ -17,6 +17,16 @@ const Work = () => {
 
   const projects = [
 
+    
+
+    {
+      title: "Music player cloud",
+      desc: " listen music with your frends and have a chat with em also see what they are listening to e funiture using puter and MERN stack.",
+      img: "./spotify.jpg",
+      live: "https://spofity-clone.onrender.com",
+      git: "https://github.com/Ravikynoobcoder/spotify-clone",
+      tech: ["React", "Node.js", "MongoDB", "Express"],
+    },
     {
       title: "Roomify",
       desc: " Roomify . a smart way to visualize your floor plans and architure with AI and inside funiture using puter and MERN stack.",
