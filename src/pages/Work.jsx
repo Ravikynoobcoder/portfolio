@@ -46,9 +46,9 @@ const Work = () => {
     {
       title: "QuickScribe",
       desc: "QuickScribe — Intelligent MERN Note-Taking App to create, manage, and organize notes with search, filtering, tags, and pinning. Built with the MERN stack.",
-      img: "./quick.png",
-      live: "https://notes-frontend-alpha-beryl.vercel.app",
-      git: "https://github.com/",
+      img: "./quick1.png",
+      live: "https://frontend-u7v0.onrender.com",
+      git: "https://github.com/Ravikynoobcoder/url-shortner",
       tech: ["React", "Node.js", "MongoDB", "Express"],
     },
     {
