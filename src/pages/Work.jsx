@@ -17,8 +17,15 @@ const Work = () => {
 
   const projects = [
 
+      {
+      title: "chat app/group chatting",
+      desc: "My chatty ",
+      img: "./chat.png",
+      live: "https://chatty-frontend-zeta.vercel.app",
+      git: "https://github.com/Ravikynoobcoder/",
+      tech: ["React", "Framer Motion", "Tailwind", "Next.js"],
+    },
     
-
     {
       title: "Music player cloud",
       desc: " listen music with your frends and have a chat with em also see what they are listening to e funiture using puter and MERN stack.",
@@ -46,17 +53,35 @@ const Work = () => {
     {
       title: "QuickScribe",
       desc: "QuickScribe — Intelligent MERN Note-Taking App to create, manage, and organize notes with search, filtering, tags, and pinning. Built with the MERN stack.",
-      img: "./quick1.png",
+      img: "./note.png",
       live: "https://frontend-u7v0.onrender.com",
+      git: "  https://github.com/Ravikynoobcoder/calendly/tree/main",
+      tech: ["React", "Node.js", "MongoDB", "Express"],
+    },  
+    
+    {
+      title: "My Notes",
+      desc: "My NOtes, makes notes and things",
+      img: "./notes.png",
+      live: "https://note-1-4ssu.onrender.com",
+      git: "https://github.com/Ravikynoobcoder/note",
+      tech: ["React", "Framer Motion", "Tailwind", "Next.js"],
+    },
+     {
+      title: "calendly",
+      desc: "Calendly is a modern, visually immersive productivity application that reimagines how users interact with time and tasks.  backgrounds with a clean  to create a seamless user experience.",
+      img: "./calendly.png",
+      live: "https://calendly-beige.vercel.app/",
       git: "https://github.com/Ravikynoobcoder/url-shortner",
       tech: ["React", "Node.js", "MongoDB", "Express"],
     },
+
     {
       title: "SnipScan",
       desc: "SnipScan — A responsive URL Shortener app built with MERN, enabling users to create short links and QR codes for easy sharing and scanning.",
-      img: "./url.png",
-      live: "https://url-shortner-frontend-phi.vercel.app",
-      git: "https://github.com/Ravikynoobcoder/",
+      img: "./quick1.png",
+      live: "https://frontend-u7v0.onrender.com",
+      git: "https://github.com/Ravikynoobcoder/url-shortner",
       tech: ["React", "Node.js", "MongoDB", "QR Code"],
     },
     {
@@ -75,14 +100,7 @@ const Work = () => {
       git: "https://github.com/Ravikynoobcoder/",
       tech: ["React", "Charts.js", "MongoDB", "Node.js"],
     },
-    {
-      title: "Streamify",
-      desc: "Streamify — A MERN-based app for connecting, chatting, and collaborating with people globally through text and video communication.",
-      img: "./streamify.png",
-      live: "https://streamify-app-47nz.onrender.com",
-      git: "https://github.com/Ravikynoobcoder/",
-      tech: ["React", "WebRTC", "Socket.io", "Node.js"],
-    },
+
     {
       title: "Resume Builder",
       desc: "Resume Builder — A MERN app that helps users create professional resumes with multiple templates and export as PDF.",
@@ -98,23 +116,9 @@ const Work = () => {
       live: "https://customcard12.vercel.app/",
       git: "https://github.com/Ravikynoobcoder/",
       tech: ["javascrict","css","tailwindcss"],
-    },
-    {
-      title: "My Notes",
-      desc: "My NOtes, makes notes and things",
-      img: "./myport.png",
-      live: "https://vercel.com/raviy3083-5319s-projects/note1",
-      git: "https://github.com/Ravikynoobcoder/",
-      tech: ["React", "Framer Motion", "Tailwind", "Next.js"],
-    },
-        {
-      title: "chat app/group chatting",
-      desc: "My chatty ",
-      img: "./chat.png",
-      live: "https://chatty-frontend-zeta.vercel.app",
-      git: "https://github.com/Ravikynoobcoder/",
-      tech: ["React", "Framer Motion", "Tailwind", "Next.js"],
     }
+  
+      
     
   ];
 
