@@ -100,6 +100,16 @@ const Work = () => {
       git: "https://github.com/Ravikynoobcoder/",
       tech: ["React", "Charts.js", "MongoDB", "Node.js"],
     },
+   
+    {
+      title: "Expense Tracker lite",
+      desc: "Expense Tracker — lighter version of expense tracker with graphs and table visualizeation",
+      img: "./image.png",
+      live: " https://expense-tracker-1-ikhi.onrender.com",
+      git: "https://github.com/Ravikynoobcoder/",
+      tech: ["React", "Charts.js", "MongoDB", "Node.js"],
+    },
+   
 
     {
       title: "Resume Builder",
