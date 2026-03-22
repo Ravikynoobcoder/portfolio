@@ -127,6 +127,23 @@ const Work = () => {
       git: "https://github.com/Ravikynoobcoder/",
       tech: ["javascrict","css","tailwindcss"],
     }
+    ,
+    {
+      title: "Pathfinding-visualizer",
+      desc: "this pathfinding visualizer shows how differnting pathfinding algorighm works by seaching their neighbours and it does so for 4 differnet kind of algos like A* , Dijkstra etc",
+      img: "./path.png",
+      live: "https://pathfinder-visualizer-ruby.vercel.app/",
+      git: "https://github.com/Ravikynoobcoder/",
+      tech: ["javascrict","css","tailwindcss"],
+    },
+    {
+      title: "sorting visualizer",
+      desc: "A web-based sorting visualizer that demonstrates how popular sorting algorithms like Bubble Sort, Merge Sort, Quick Sort, and Insertion Sort work through real-time animations.",
+      img: "./sorting.png",
+      live: "hhttps://sorting-visualizer-sooty-five.vercel.app/",
+      git: "https://github.com/Ravikynoobcoder/",
+      tech: ["javascrict","css","tailwindcss"],
+    }
   
       
     
