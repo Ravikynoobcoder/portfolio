@@ -93,7 +93,7 @@ const Work = () => {
       tech: ["React", "Gemini AI", "Node.js", "MongoDB"],
     },
     {
-      title: "Expense Tracker",
+      title: "Expense Tracker Mark3",
       desc: "Expense Tracker — Smart MERN app for managing income & expenses with charts and dashboards for financial insights.",
       img: "./expense.png",
       live: "https://expense-tracker-gamma-dun.vercel.app",
@@ -102,14 +102,22 @@ const Work = () => {
     },
    
     {
-      title: "Expense Tracker lite",
+      title: "Expense Tracker Mark2",
       desc: "Expense Tracker — lighter version of expense tracker with graphs and table visualizeation",
       img: "./image.png",
       live: " https://expense-tracker-1-ikhi.onrender.com",
       git: "https://github.com/Ravikynoobcoder/",
       tech: ["React", "Charts.js", "MongoDB", "Node.js"],
     },
-   
+    {
+      title: "Expense Tracker Mark1",
+      desc: "Expense Tracker — lighter version of expense tracker with graphs and table visualizeation",
+      img: "./mark1 ex.png",
+      live: "https://expense-mark1.onrender.com",
+      git: "https://github.com/Ravikynoobcoder/",
+      tech: ["React", "Charts.js", "MongoDB", "Node.js"],
+    },
+  // https://expense-mark1.onrender.com/
 
     {
       title: "Resume Builder",
