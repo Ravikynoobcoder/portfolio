@@ -112,7 +112,7 @@ const Work = () => {
     {
       title: "Expense Tracker Mark1",
       desc: "Expense Tracker — lighter version of expense tracker with graphs and table visualizeation",
-      img: "./mark1 ex.png",
+      img: "./mark1-ex.png",
       live: "https://expense-mark1.onrender.com",
       git: "https://github.com/Ravikynoobcoder/",
       tech: ["React", "Charts.js", "MongoDB", "Node.js"],
