@@ -59,7 +59,7 @@ const Work = () => {
       tech: ["React", "Node.js", "MongoDB", "Express"],
     },  
 
-    https://notes-mk2-front.vercel.app/
+  
     
     {
       title: "My Notes Mk2",
