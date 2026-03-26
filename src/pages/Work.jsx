@@ -58,7 +58,17 @@ const Work = () => {
       git: "  https://github.com/Ravikynoobcoder/calendly/tree/main",
       tech: ["React", "Node.js", "MongoDB", "Express"],
     },  
+
+    https://notes-mk2-front.vercel.app/
     
+    {
+      title: "My Notes Mk2",
+      desc: "My Notes, makes notes and things with user login and searching ,pinning and tagging as well",
+      img: "./notes-mk2.png",
+      live: " https://notes-mk2-front.vercel.app",
+      git: "https://github.com/Ravikynoobcoder/note",
+      tech: ["React", "Framer Motion", "Tailwind", "Next.js"],
+    },
     {
       title: "My Notes",
       desc: "My NOtes, makes notes and things",
@@ -67,6 +77,7 @@ const Work = () => {
       git: "https://github.com/Ravikynoobcoder/note",
       tech: ["React", "Framer Motion", "Tailwind", "Next.js"],
     },
+
      {
       title: "calendly",
       desc: "Calendly is a modern, visually immersive productivity application that reimagines how users interact with time and tasks.  backgrounds with a clean  to create a seamless user experience.",
