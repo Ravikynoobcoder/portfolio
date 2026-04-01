@@ -51,6 +51,15 @@ const Work = () => {
       tech: ["React", "Node.js", "MongoDB", "Express"],
     },
     {
+      title: "React agriculture site",
+      desc: " this is a site made with react,framer,lucid, tailwin that is used to track the cultivation ,plantation and agricultural related activtites around the word ",
+      img: "./terra.png",
+      live: "https://react-practice-agriculture-site.vercel.app/",
+      git: "https://github.com/Ravikynoobcoder/",
+      tech: ["React", "tailwind","framer", "lucide"],
+    },
+    
+    {
       title: "QuickScribe",
       desc: "QuickScribe — Intelligent MERN Note-Taking App to create, manage, and organize notes with search, filtering, tags, and pinning. Built with the MERN stack.",
       img: "./note.png",
