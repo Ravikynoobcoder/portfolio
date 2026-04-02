@@ -60,10 +60,10 @@ const Work = () => {
     },
     
     {
-      title: "QuickScribe",
-      desc: "QuickScribe — Intelligent MERN Note-Taking App to create, manage, and organize notes with search, filtering, tags, and pinning. Built with the MERN stack.",
-      img: "./note.png",
-      live: "https://frontend-u7v0.onrender.com",
+      title: "Github-Landing-react",
+      desc: "Gitclone — a fronend git landing page with lucide animation and interactive user friendly design and ui.",
+      img: "./git.png",
+      live: "https://github-landing-fron.netlify.app/",
       git: "  https://github.com/Ravikynoobcoder/calendly/tree/main",
       tech: ["React", "Node.js", "MongoDB", "Express"],
     },  
