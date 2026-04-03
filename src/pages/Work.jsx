@@ -43,6 +43,15 @@ const Work = () => {
       tech: ["React", "Node.js", "MongoDB", "Express"],
     },
     {
+      title: "product-store",
+      desc: " A full-stack Product Store web application built using React for the frontend and PostgreSQL for the backend database. It allows users to browse products, view details, and interact with a dynamic product system powered by a REST API.",
+      img: "./pro.png",
+      live: "https://front-product-store.vercel.app",
+      git: "https://github.com/Ravikynoobcoder/front-product-store",
+      tech: ["React", "Node.js", "Postgress", "Express"],
+    },
+    
+    {
       title: "ZegoStream",
       desc: " ZegoStream is a vidoecalling web app that connect people and friends using the powerful zegocloud api",
       img: "./zego.png",
@@ -296,6 +305,7 @@ const Work = () => {
             </div>
           ))}
         </div>
+       
       </div>
     </div>
   );
